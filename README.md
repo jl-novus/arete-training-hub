@@ -1,2 +1,2 @@
-# aretre-training-hub
+# arete-training-hub
 IT Training Hub for AHPT Staff
